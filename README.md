@@ -19,5 +19,5 @@ Welcome to my Prodigy Internship repository, showcasing the skills and projects 
 
 | Task Number | Task Description                          | Live Website Link                                   |
 |-------------|-------------------------------------------|-----------------------------------------------------|
-| Task 3      |    Chat app           | [Live Website](fullstack-chat-app-xoai.onrender.com/)|
+| Task 3      |    Chat app           | [Live Website](https://fullstack-chat-app-xoai.onrender.com/login)|
 
